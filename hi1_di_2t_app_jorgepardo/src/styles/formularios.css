@@ -1,0 +1,46 @@
+.registro{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.inicio{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+h1{
+    text-align: center;
+}
+form{
+    border: 1px solid black;
+    border-radius: 2%;
+    padding: 5%;
+}
+
+#boton{
+    margin: 0 auto;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
